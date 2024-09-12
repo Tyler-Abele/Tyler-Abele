@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a second-year student at the University of Virginia in the new data science major. 
 <!--
 **Tyler-Abele/Tyler-Abele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
